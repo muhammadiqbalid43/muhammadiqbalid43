@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Iqbal 👋
 
-📍 Bengkulu | 💻 Frontend Engineer | ⚡ [A quick "win" or current goal]
+📍 Bengkulu | 💻 Frontend Engineer | ⚡ Building products & solving user problems
 
 **Typescript | React | Next.js | Tailwind | Node.js | Hono | SQL**
 
