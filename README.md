@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Muhammad Iqbal 👋
 
-📍 [Location] | 💻 [Your Specific Role, e.g., Fullstack Builder] | ⚡ [A quick "win" or current goal]
+📍 Bengkulu | 💻 Frontend Engineer | ⚡ [A quick "win" or current goal]
 
-**JavaScript | React | Next.js | Tailwind | Node.js | Hono | PostgreSQL**
+**Typescript | React | Next.js | Tailwind | Node.js | Hono | SQL**
 
 ---
 
